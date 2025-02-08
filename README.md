@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Open source web and mobile apps...
 - 📫 How to reach me maxwelayal9563@gmail.com ...
 - ⚡ Fun fact:  It all starts with a print("Hello world !") 😄
+- 🚀 AI enthusiast
 
 <!---
 ayalasher/ayalasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
