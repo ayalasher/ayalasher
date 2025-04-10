@@ -5,7 +5,7 @@
 - 📫 How to reach me maxwelayal9563@gmail.com ...
 - ⚡ Fun fact: Any application that can be written in JavaScript, will eventually be written in JavaScript 😄 ~ Atwood's Law 
 - 🚀 AI enthusiast
-- 😎Checkout my porifolio at https://porflio-vercel.vercel.app/
+- 😎Checkout my porifolio at https://www.maxwel-ayal.tech/
 
 <!---
 ayalasher/ayalasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
