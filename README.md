@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to build AI software solutions. 
 - 💞️ I’m looking to collaborate on Open source web,mobile apps  and intership opportunities in software development....
 - 📫 How to reach me maxwelayal9563@gmail.com ...
-- ⚡ Fun fact: Any application that can be written in JavaScript, will eventually be written in JavaScript 😄 ~ Atwood's Law 
+- ⚡ Fun fact: Any application that can be written in JavaScript, will eventually be written in Typescript(Indsutry standard)😄.
 - 🚀 AI enthusiast
 - 😎Checkout my porifolio at https://www.maxwel-ayal.tech/
 
