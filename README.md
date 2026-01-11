@@ -62,7 +62,7 @@ Git, GitHub
 - Fully containerized using **Docker**
 
 👉 Repository: *([link here](https://github.com/ayalasher/F1-batch-pipeline))*
-
+  <!-- 
 ---
 
 ## 🏗️ Data Engineering Interests
@@ -83,7 +83,7 @@ Git, GitHub
 - Building production-ready **Airflow DAGs**
 - Cloud-native data pipelines on **AWS and Azure**
 
-
+-->
 
 ---
 
