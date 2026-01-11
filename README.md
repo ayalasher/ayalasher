@@ -89,7 +89,7 @@ Git, GitHub
 
 ## 📫 Connect With Me
 - 📧 Email: **maxwelayal956@gmail.com**  
-- 💼 LinkedIn: *(your LinkedIn link)*  
+- 💼 LinkedIn: *([Link here](https://www.linkedin.com/in/maxwel-ayal-12395b2b0/))*  
 - 🌐 Portfolio: **https://www.maxwel-ayal.tech**
 
 ---
