@@ -62,6 +62,17 @@ Git, GitHub
 - Fully containerized using **Docker**
 
 👉 Repository: *([link here](https://github.com/ayalasher/F1-batch-pipeline))*
+
+---
+
+### 📊 Telecom Customer Churn Lakehouse
+- End-to-end lakehouse implementation on **Databricks** using Medallion Architecture (Bronze, Silver, Gold)
+- Data ingestion and transformation using **PySpark** with Delta Lake storage
+- Feature engineering and exploratory data analysis for churn prediction
+- Machine learning model development for customer churn classification
+- Automated pipeline orchestration within the Databricks environment
+
+👉 Repository: *([link here]([https://github.com/ayalasher/Telecom-churn-lakehouse](https://github.com/ayalasher/teleco-customer-churn-and-revenue-lakehouse)))*
   <!-- 
 ---
 
