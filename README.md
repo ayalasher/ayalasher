@@ -1,6 +1,6 @@
 # Hi 👋, I’m Maxwel Ayal Asher
 
-###  Data Engineering enthusiast | Computer Science Student
+###  Data Engineer | mobile apps | n8n automation
 
 I’m an aspiring **Data Engineer** with hands-on experience building **batch and real-time data pipelines** using Python, SQL, Apache Airflow, Kafka, and Flink frm my learning and projects. I enjoy working on data ingestion, transformation, orchestration, and turning raw data into reliable, analytics-ready systems.
 
