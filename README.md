@@ -72,7 +72,7 @@ Git, GitHub
 - Machine learning model development for customer churn classification
 - Automated pipeline orchestration within the Databricks environment
 
-👉 Repository: *([link here]([https://github.com/ayalasher/Telecom-churn-lakehouse](https://github.com/ayalasher/teleco-customer-churn-and-revenue-lakehouse)))*
+👉 Repository: *([link here]((https://github.com/ayalasher/teleco-customer-churn-and-revenue-lakehouse)))*
   <!-- 
 ---
 
